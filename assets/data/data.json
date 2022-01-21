@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "imagen": "assets/images/nike.jpg",
+        "titulo": "NIKE AIR JORDAN 1 HIGH DE J BALVIN.",
+        "articulo": "Inicialmente, la marca de ropa deportiva Jordan Brand buscó a J Balvin para captarlo como su imagen de una serie de campañas con motivo del Mes de la Herencia Hispana, incluyendo fotografías suyas en iniciativas publicitarias y otros lanzamientos claves."
+
+    },
+    {
+        "id": 2,
+        "imagen": "assets/images/fc.jpg",
+        "titulo": "SEAN JOHN VUELVE CON SU NUEVA COLECCIÓN SS21",
+        "articulo": "Mucho ha pasado desde que Sean Combs, también conocido como Puff Daddy, fundara Sean John allá por 1998."
+    },
+    {
+        "id": 3,
+        "imagen": "assets/images/JB.jpg",
+        "titulo": "ENTREVISTA A JOEY BADASS",
+        "articulo": "Quién es Joey Badass, el rapero más multidisciplinar y presumido del momento."
+    },
+    {
+        "id": 4,
+        "imagen": "assets/images/sneakers.jpg",
+        "titulo": "TOP 5 SNEAKERS DEL AÑO",
+        "articulo": "Durante meses, hemos estado proyectando el inminente surgimiento de una sociedad post-sneaker"
+    },
+    {
+        "id": 5,
+        "imagen": "assets/images/modaurbana.jpg",
+        "titulo": "EL BOOM DE LA MODA URBANA",
+        "articulo": "Los consumidores de este tipo de ropa compiten en las redes sociales para ver quién es el primero en hacerse con el último producto. "
+    }
+]
